@@ -1,3 +1,10 @@
+"""
+projekt_3.py: TicTacToe game
+
+author: Tobias Svasek
+email: 1143@student.itgymnazium.cz
+"""
+
 board = [[' ', ' ', ' '],
          [' ', ' ', ' '],
          [' ', ' ', ' ']]
